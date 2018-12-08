@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "koa": "^2.6.2",
+    "xsampa": "^0.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
